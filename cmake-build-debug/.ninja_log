@@ -1,0 +1,13 @@
+# ninja log v6
+3	91	7478078350770402	CMakeFiles/dinamic_stack.dir/main.c.obj	513032dc6beab598
+92	193	7478078351668174	dinamic_stack.exe	9200721c2faf808f
+4	85	7478079446382480	CMakeFiles/dinamic_stack.dir/main.c.obj	513032dc6beab598
+85	175	7478079447191094	dinamic_stack.exe	9200721c2faf808f
+4	87	7478080248390791	CMakeFiles/dinamic_stack.dir/main.c.obj	513032dc6beab598
+88	178	7478080249235695	dinamic_stack.exe	9200721c2faf808f
+4	80	7478081218532119	CMakeFiles/dinamic_stack.dir/main.c.obj	513032dc6beab598
+81	169	7478081219307227	dinamic_stack.exe	9200721c2faf808f
+6	85	7478082756221556	CMakeFiles/dinamic_stack.dir/main.c.obj	513032dc6beab598
+86	174	7478082757017755	dinamic_stack.exe	9200721c2faf808f
+5	82	7478082977402327	CMakeFiles/dinamic_stack.dir/main.c.obj	513032dc6beab598
+83	166	7478082978187507	dinamic_stack.exe	9200721c2faf808f
